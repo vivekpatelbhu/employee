@@ -14,7 +14,7 @@
     "email":"admin@gmail.com",
     "name": "vivek",
     "password":"12345",
-    "sallery":true
+    "sallery": 50000
 }
  2. get employee list
  Method: get
